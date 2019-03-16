@@ -1,0 +1,57 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+html
+{
+	height:100%;
+}
+
+td, th {
+  border: 5px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+}
+
+
+.center-text
+{
+text-align: center;
+padding: 100px;
+color:white;
+}
+body
+{
+background-image: url("https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+color:white;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+button
+{
+	background-color: #f4511e;
+border-radius: 8px;
+  border:none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 26px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+ 
+  text-decoration: none;
+  cursor: pointer;
+  
+  
+
+}
+button:hover {
+ opacity: 1;
+}
+
